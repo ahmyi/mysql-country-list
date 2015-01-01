@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS `provinces` (
   PRIMARY KEY (`id`),
 ) ENGINE=InnoDB AUTO_INCREMENT=3873 DEFAULT CHARSET=utf8;
 
-INSERT INTO `state_province` (`id`, `country_id`, `name`) VALUES
+INSERT INTO `provinces` (`id`, `country_id`, `name`) VALUES
 	(1, 'AD', 'Parròquia de Sant Julià de Lòria'),
 	(2, 'AD', 'Parròquia d\'Ordino'),
 	(3, 'AD', 'Parròquia de la Massana'),
