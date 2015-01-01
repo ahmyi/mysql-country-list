@@ -2,7 +2,7 @@ CREATE TABLE IF NOT EXISTS `provinces` (
   `id` int(10) NOT NULL AUTO_INCREMENT,
   `country_id` char(2) DEFAULT NULL,
   `name` varchar(60) DEFAULT NULL,
-  PRIMARY KEY (`id`),
+  PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3873 DEFAULT CHARSET=utf8;
 
 INSERT INTO `provinces` (`id`, `country_id`, `name`) VALUES
