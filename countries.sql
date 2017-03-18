@@ -20,6 +20,7 @@ INSERT INTO `countries` (`id`, `name`)  VALUES
 ( 'AW', 'Aruba'),
 ( 'AU', 'Australia'),
 ( 'AT', 'Austria'),
+( 'AX', 'Åland Islands'),
 ( 'AZ', 'Azerbaijan'),
 ( 'BS', 'Bahamas'),
 ( 'BH', 'Bahrain'),
