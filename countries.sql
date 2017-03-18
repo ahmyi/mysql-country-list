@@ -9,7 +9,7 @@ INSERT INTO `countries` (`id`, `name`)  VALUES
 ('AF', 'Afghanistan'),
 ('AL', 'Albania'),
 ('DZ', 'Algeria'),
-('DS', 'American Samoa'),
+('AS', 'American Samoa'),
 ('AD', 'Andorra'),
 ('AO', 'Angola'),
 ( 'AI', 'Anguilla'),
