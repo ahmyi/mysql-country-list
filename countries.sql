@@ -244,6 +244,7 @@ INSERT INTO `countries` (`id`, `name`)  VALUES
 ( 'EH', 'Western Sahara'),
 ( 'YE', 'Yemen'),
 ( 'YU', 'Yugoslavia'),
+( 'YT', 'Mayotte'),
 ( 'ZR', 'Zaire'),
 ( 'ZM', 'Zambia'),
 ( 'ZW', 'Zimbabwe');
